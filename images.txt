@@ -4,3 +4,4 @@ redis
 eclipse-temurin:20-jdk-jammy
 maven
 openjdk
+node:16.13.0
