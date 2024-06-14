@@ -2,3 +2,5 @@ nginx
 mysql:8.0.30
 redis
 eclipse-temurin:20-jdk-jammy
+maven
+openjdk
